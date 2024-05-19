@@ -1,0 +1,21 @@
+header {
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.privacy-main {
+    padding: 20px;
+    margin: 80px auto;
+    max-width: 800px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0, 0.1);
+}
+
+section h2 {
+    color: #333;
+}
+
+section p {
+    line-height: 1.6;
+}
